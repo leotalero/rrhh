@@ -1,0 +1,14 @@
+app.file.temporal.global = temporal_files
+
+rrhh.ftp.server = ftp.sistemcobro.com
+rrhh.ftp.user = rrhhg
+rrhh.ftp.password = @rrhh369/
+
+
+rrhh.ftp.serverR = ftp.sistemcobro.com
+rrhh.ftp.userR = recursog
+rrhh.ftp.passwordR =  @r3curs0369/
+
+rrhh.tableau.server= www.sistemcobro.com/tableau
+rrhh.tableau.userC= appsc
+rrhh.tableau.userG= appsg
